@@ -1,0 +1,1 @@
+{"description":"A travel poster generator for Veldara, a desert that blooms at night.","license":"MIT","main":"main.ts","name":"poster-place-that-isnt-there","scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
